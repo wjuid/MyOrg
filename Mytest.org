@@ -1,0 +1,11 @@
+#+TITLE: Example Org File
+#+author:  TEC
+#+date:    2021:02:05
+* Revamp orgmode.org website
+The /beauty/ of org *must* be share
+[[http://upload.wikimedia.org]]
+** DONE Make screenshots
+CLOSED: [2020-09-03 Thu 18:24]
+** DONE Restyle Site CSS
+Go through [[...]]
+* Learn Org
